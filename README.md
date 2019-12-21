@@ -4,11 +4,11 @@
 
 This project is geared towards understanding the importance of using the State-of-the-art image classification models on your own small image classification problem
 
-### For this project we built Convolutional Neural Network (CNN) model from scratch as our bench mark model, and further utilized the state-of-the-art models such as VGG16 and ResNet50 as our pretrained model to perform Transfer learning on the dataset.
+### For this project we built Convolutional Neural Network (CNN) model from scratch, and further utilized the state-of-the-art models such as VGG16 and ResNet50 as our pretrained model to perform Transfer learning on the dataset.
 
-## To make your work computationally efficient, GPU will be required for this analysis
+### To make your work computationally efficient, GPU will be required for this analysis
 
-## ***Libraries used: pandas, matplotlib, pytorch, numpy***
+### ***Libraries used: pandas, matplotlib, pytorch, numpy***
 
 We were able to visualize the loss and accuracy after each model training to observe and evaluate how the model did on our test data, from these visualization we were able to decipher how the model performed on the dataset
 
